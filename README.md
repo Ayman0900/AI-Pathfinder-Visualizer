@@ -38,21 +38,6 @@ Iterative Deepening DFS (IDDFS):
 Repeated DLS with increasing depth
 Bidirectional Search
 Searches simultaneously from start and target
-
-Tkinter (GUI Framework)
-
-collections.deque
-
-heapq (Priority Queue)
-Project Structure:
-AI-Pathfinder-Visualiser/
-│── Code.py
-│── README.md
-How to Run the Project
-Open the folder
-cd AI-Pathfinder-Visualiser
- Run the program
-python main.py
 How to Use the Application:
 Run the program.
 Click any grid cell to set the Start node.
