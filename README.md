@@ -49,8 +49,6 @@ AI-Pathfinder-Visualiser/
 │── Code.py
 │── README.md
 How to Run the Project
-Clone the repository
-git clone https://github.com/Ayman0900/AI-Pathfinder-Visualiser.git
 Open the folder
 cd AI-Pathfinder-Visualiser
  Run the program
