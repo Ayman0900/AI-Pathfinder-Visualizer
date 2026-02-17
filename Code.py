@@ -5,7 +5,7 @@ import heapq
 # --- Configuration (Based on Assignment Instructions) ---
 ROWS, COLS = 10, 10  # Shorter 10x10 grid as per Task 7
 CELL_SIZE = 50       # Larger cells for better visibility
-TITLE = "GOOD PERFORMANCE TIME APP"
+TITLE = "AI-Pathfinder-Visualiser"
 
 # Cyber-Grid Color Palette
 COLOR_BG      = "#0F172A"  # Midnight Blue
